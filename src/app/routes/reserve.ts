@@ -45,16 +45,17 @@ reserveRouter.get(
 
 reserveRouter.get(
     '/theater/:theaterCode/upd_tmp_reserve_seat/',
-    (__, res) => {
+    (req, res) => {
+        // クエリパラメーターに忠実にレスポンスを返す
         res.json({
             status: 0,
             message: '',
-            list_tmp_reserve: [
-                {
-                    seat_num: 'Ｈ－１６',
-                    seat_section: '   '
-                }
-            ],
+            list_tmp_reserve: (<string[]>req.query.seat_section).map((seatSection, index) => {
+                return {
+                    seat_num: (<string[]>req.query.seat_num)[index],
+                    seat_section: seatSection
+                };
+            }),
             // tslint:disable-next-line:insecure-random no-magic-numbers
             tmp_reserve_num: parseInt(`${Math.floor(Math.random() * 99999999)}`, 10) // ランダムに予約番号発行
         });
@@ -71,19 +72,28 @@ reserveRouter.get(
 
 reserveRouter.get(
     '/theater/:theaterCode/upd_reserve/',
-    (__, res) => {
+    (req, res) => {
+        // クエリパラメーターに忠実にレスポンスを返す
         res.json({
             status: 0,
             message: '',
-            list_qr: [
-                {
-                    seat_num: 'Ｈ－１６',
+            list_qr: (<string[]>req.query.seat_num).map((seatNum, index) => {
+                const qr = [
+                    req.query.theater_code,
+                    req.query.date_jouei,
+                    // tslint:disable-next-line:no-magic-numbers
+                    (`00000000${req.query.tmp_reserve_num}`).slice(-8),
+                    // tslint:disable-next-line:no-magic-numbers
+                    (`000${index + 1}`).slice(-3)
+                ].join('');
+
+                return {
+                    seat_num: seatNum,
                     seat_section: '   ',
-                    seat_qrcode: '1182017112100057186001'
-                }
-            ],
-            // tslint:disable-next-line:insecure-random no-magic-numbers
-            tmp_reserve_num: parseInt(`${Math.floor(Math.random() * 99999999)}`, 10) // ランダムに予約番号発行
+                    seat_qrcode: qr
+                };
+            }),
+            reserve_num: req.query.tmp_reserve_num
         });
     });
 
@@ -99,13 +109,13 @@ reserveRouter.get(
 reserveRouter.get(
     '/theater/:theaterCode/state_reserve/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}/../../../data/stateReserve.json`).pipe(res);
+        fs.createReadStream(`${__dirname} /../../../ data / stateReserve.json`).pipe(res);
     });
 
 reserveRouter.get(
     '/theater/:theaterCode/sales_ticket/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}/../../../data/salesTicket.json`).pipe(res);
+        fs.createReadStream(`${__dirname} /../../../ data / salesTicket.json`).pipe(res);
     });
 
 export default reserveRouter;
