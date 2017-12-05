@@ -47,6 +47,12 @@ reserveRouter.get(
     '/theater/:theaterCode/upd_tmp_reserve_seat/',
     (req, res) => {
         // クエリパラメーターに忠実にレスポンスを返す
+        if (!Array.isArray(req.query.seat_section)) {
+            req.query.seat_section = [req.query.seat_section];
+        }
+        if (!Array.isArray(req.query.seat_num)) {
+            req.query.seat_num = [req.query.seat_num];
+        }
         res.json({
             status: 0,
             message: '',
@@ -74,6 +80,9 @@ reserveRouter.get(
     '/theater/:theaterCode/upd_reserve/',
     (req, res) => {
         // クエリパラメーターに忠実にレスポンスを返す
+        if (!Array.isArray(req.query.seat_num)) {
+            req.query.seat_num = [req.query.seat_num];
+        }
         res.json({
             status: 0,
             message: '',
