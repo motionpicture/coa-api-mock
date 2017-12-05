@@ -1,0 +1,21 @@
+{
+    "message": "",
+    "date_jouei": "20171203",
+    "title_branch_num": "0",
+    "screen_code": "60",
+    "list_ticket": [
+        {
+            "seat_qrcode": "1182017120300099150001",
+            "ticket_name": "大学生３Ｄ",
+            "seat_section": "   ",
+            "ticket_count": 1,
+            "add_glasses": 100,
+            "ticket_code": "45",
+            "ticket_price": 2900,
+            "seat_num": "Ｅ－３"
+        }
+    ],
+    "status": 0,
+    "time_begin": "1500",
+    "title_code": "99500"
+}

@@ -1,0 +1,288 @@
+{
+    "message": "",
+    "list_kubun": [
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "001",
+            "kubun_name": "パッケージ区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name": "座席印刷区分",
+            "kubun_add_price": 0,
+            "kubun_code": "002",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name": "日計処理切替区分",
+            "kubun_add_price": 0,
+            "kubun_code": "003",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "004",
+            "kubun_add_price": 0,
+            "kubun_name": "消費税"
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "販売区分",
+            "kubun_code": "005",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name": "ドロワインタフェース",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "006"
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "座席指定区分",
+            "kubun_name_eng": "",
+            "kubun_code": "007"
+        },
+        {
+            "kubun_code": "008",
+            "kubun_name_eng": "",
+            "kubun_name": "チケット種別",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "サービス区分",
+            "kubun_code": "009",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_code": "010",
+            "kubun_name_eng": "",
+            "kubun_name": "チケット発券単位",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "011",
+            "kubun_name": "チケット制限区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_code": "012",
+            "kubun_name_eng": "",
+            "kubun_name": "割引区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_code": "013",
+            "kubun_name_eng": "",
+            "kubun_name": "メッセージ区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_code": "014",
+            "kubun_name_eng": "",
+            "kubun_name": "サブシステム区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "015",
+            "kubun_name": "曜日",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name": "会員割引区分",
+            "kubun_add_price": 0,
+            "kubun_code": "016",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "座席番号表示区分",
+            "kubun_code": "017",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "座席表示色",
+            "kubun_name_eng": "",
+            "kubun_code": "018"
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "予約券発券区分",
+            "kubun_name_eng": "",
+            "kubun_code": "019"
+        },
+        {
+            "kubun_name": "チケット印刷パターン",
+            "kubun_add_price": 0,
+            "kubun_code": "020",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name": "担当者認証タイプ",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "021"
+        },
+        {
+            "kubun_name": "消費税丸め区分",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "022"
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "023",
+            "kubun_name": "発券区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_code": "024",
+            "kubun_name_eng": "",
+            "kubun_name": "売上集計区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name": "クーポン区分",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "025"
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "026",
+            "kubun_name": "使用可能権限",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "座席位置区分縦",
+            "kubun_code": "027",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_code": "028",
+            "kubun_name_eng": "",
+            "kubun_name": "座席位置区分横",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "029",
+            "kubun_name": "ポイント加算区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name": "カード有効期限更新区分",
+            "kubun_add_price": 0,
+            "kubun_code": "030",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "性別",
+            "kubun_code": "031",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "税計算区分",
+            "kubun_name_eng": "",
+            "kubun_code": "032"
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "内外税区分",
+            "kubun_code": "033",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "商品区分",
+            "kubun_code": "034",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "035",
+            "kubun_add_price": 0,
+            "kubun_name": "単価入力区分"
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "036",
+            "kubun_add_price": 0,
+            "kubun_name": "仕入区分"
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "支払区分",
+            "kubun_code": "037",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_name": "入出庫区分",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "038"
+        },
+        {
+            "kubun_code": "039",
+            "kubun_name_eng": "",
+            "kubun_add_price": 0,
+            "kubun_name": "天候"
+        },
+        {
+            "kubun_name": "商品種別",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "040"
+        },
+        {
+            "kubun_name": "伝票区分",
+            "kubun_add_price": 0,
+            "kubun_name_eng": "",
+            "kubun_code": "041"
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "042",
+            "kubun_add_price": 0,
+            "kubun_name": "映像区分"
+        },
+        {
+            "kubun_name_eng": "",
+            "kubun_code": "043",
+            "kubun_add_price": 0,
+            "kubun_name": "字幕吹替"
+        },
+        {
+            "kubun_code": "044",
+            "kubun_name_eng": "",
+            "kubun_name": "映倫区分",
+            "kubun_add_price": 0
+        },
+        {
+            "kubun_name": "上映方式",
+            "kubun_add_price": 0,
+            "kubun_code": "045",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "音響区分",
+            "kubun_code": "046",
+            "kubun_name_eng": ""
+        },
+        {
+            "kubun_add_price": 0,
+            "kubun_name": "ムビチケ券種区分",
+            "kubun_name_eng": "",
+            "kubun_code": "901"
+        }
+    ],
+    "status": 0
+}

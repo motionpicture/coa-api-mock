@@ -1,0 +1,71 @@
+{
+    "message": "",
+    "list_ticket": [
+        {
+            "limit_count": 1,
+            "add_price": 200,
+            "ticket_name_eng": "General Price",
+            "ticket_name": "当日一般",
+            "std_price": 1800,
+            "ticket_code": "10",
+            "add_glasses": 0,
+            "limit_unit": "001",
+            "ticket_note": "当日一般1800",
+            "ticket_name_kana": "トウジツイッパン",
+            "sale_price": 2000
+        },
+        {
+            "ticket_note": "",
+            "sale_price": 1800,
+            "ticket_name_kana": "テストキンイツ１６００エン",
+            "limit_count": 1,
+            "add_price": 200,
+            "ticket_name_eng": "",
+            "ticket_name": "テスト均一１６００円",
+            "std_price": 1600,
+            "limit_unit": "001",
+            "add_glasses": 0,
+            "ticket_code": "9999998"
+        },
+        {
+            "ticket_name_kana": "",
+            "sale_price": 1700,
+            "ticket_note": "",
+            "add_glasses": 0,
+            "limit_unit": "001",
+            "ticket_code": "40",
+            "std_price": 1500,
+            "ticket_name": "大学生",
+            "ticket_name_eng": "",
+            "add_price": 200,
+            "limit_count": 1
+        },
+        {
+            "ticket_code": "80",
+            "add_glasses": 0,
+            "limit_unit": "001",
+            "std_price": 1100,
+            "ticket_name": "シニア",
+            "ticket_name_eng": "",
+            "add_price": 200,
+            "limit_count": 1,
+            "sale_price": 1300,
+            "ticket_name_kana": "",
+            "ticket_note": ""
+        },
+        {
+            "add_price": 200,
+            "limit_count": 2,
+            "ticket_name": "夫婦５０割",
+            "ticket_name_eng": "",
+            "add_glasses": 0,
+            "limit_unit": "001",
+            "ticket_code": "81",
+            "std_price": 1100,
+            "ticket_note": "",
+            "ticket_name_kana": "",
+            "sale_price": 1300
+        }
+    ],
+    "status": 0
+}

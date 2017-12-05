@@ -1,0 +1,317 @@
+{
+    "theater_code": "118",
+    "status": 0,
+    "list_date": [
+        {
+            "cnt_performance": 38,
+            "list_performance": [
+                {
+                    "title_branch_num": "0",
+                    "time_begin": "0955",
+                    "title_code": "16221",
+                    "screen_code": "30",
+                    "cnt_reserve_max": 66,
+                    "cnt_reserve_free": 0
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "16221",
+                    "time_begin": "1300",
+                    "screen_code": "30",
+                    "cnt_reserve_free": 0,
+                    "cnt_reserve_max": 66
+                },
+                {
+                    "screen_code": "30",
+                    "cnt_reserve_free": 0,
+                    "cnt_reserve_max": 66,
+                    "title_branch_num": "0",
+                    "time_begin": "1540",
+                    "title_code": "16221"
+                },
+                {
+                    "title_code": "16221",
+                    "time_begin": "1805",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 0,
+                    "cnt_reserve_max": 66,
+                    "screen_code": "30"
+                },
+                {
+                    "cnt_reserve_free": 3,
+                    "cnt_reserve_max": 66,
+                    "screen_code": "30",
+                    "title_code": "16221",
+                    "time_begin": "2030",
+                    "title_branch_num": "0"
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "16227",
+                    "time_begin": "1000",
+                    "screen_code": "90",
+                    "cnt_reserve_max": 85,
+                    "cnt_reserve_free": 0
+                },
+                {
+                    "cnt_reserve_free": 7,
+                    "cnt_reserve_max": 85,
+                    "screen_code": "90",
+                    "time_begin": "1240",
+                    "title_code": "16227",
+                    "title_branch_num": "0"
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "16227",
+                    "time_begin": "1510",
+                    "screen_code": "90",
+                    "cnt_reserve_free": 5,
+                    "cnt_reserve_max": 85
+                },
+                {
+                    "screen_code": "90",
+                    "cnt_reserve_free": 25,
+                    "cnt_reserve_max": 85,
+                    "title_branch_num": "0",
+                    "title_code": "16227",
+                    "time_begin": "2035"
+                },
+                {
+                    "screen_code": "70",
+                    "cnt_reserve_max": 85,
+                    "cnt_reserve_free": 11,
+                    "title_branch_num": "0",
+                    "time_begin": "0925",
+                    "title_code": "16250"
+                },
+                {
+                    "title_code": "16250",
+                    "time_begin": "1455",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 9,
+                    "cnt_reserve_max": 85,
+                    "screen_code": "70"
+                },
+                {
+                    "cnt_reserve_max": 85,
+                    "cnt_reserve_free": 32,
+                    "screen_code": "70",
+                    "time_begin": "2015",
+                    "title_code": "16250",
+                    "title_branch_num": "0"
+                },
+                {
+                    "cnt_reserve_max": 242,
+                    "cnt_reserve_free": 175,
+                    "screen_code": "50",
+                    "title_code": "16421",
+                    "time_begin": "0945",
+                    "title_branch_num": "0"
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "16421",
+                    "time_begin": "1230",
+                    "screen_code": "50",
+                    "cnt_reserve_max": 242,
+                    "cnt_reserve_free": 149
+                },
+                {
+                    "screen_code": "50",
+                    "cnt_reserve_max": 242,
+                    "cnt_reserve_free": 177,
+                    "title_branch_num": "0",
+                    "time_begin": "1515",
+                    "title_code": "16421"
+                },
+                {
+                    "cnt_reserve_free": 165,
+                    "cnt_reserve_max": 242,
+                    "screen_code": "50",
+                    "time_begin": "1800",
+                    "title_code": "16421",
+                    "title_branch_num": "0"
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "16421",
+                    "time_begin": "2045",
+                    "screen_code": "50",
+                    "cnt_reserve_free": 172,
+                    "cnt_reserve_max": 242
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "17011",
+                    "time_begin": "2100",
+                    "screen_code": "80",
+                    "cnt_reserve_max": 85,
+                    "cnt_reserve_free": 5
+                },
+                {
+                    "title_code": "99100",
+                    "time_begin": "0935",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 115,
+                    "cnt_reserve_max": 202,
+                    "screen_code": "10"
+                },
+                {
+                    "cnt_reserve_max": 202,
+                    "cnt_reserve_free": 116,
+                    "screen_code": "10",
+                    "time_begin": "1225",
+                    "title_code": "99100",
+                    "title_branch_num": "0"
+                },
+                {
+                    "cnt_reserve_free": 132,
+                    "cnt_reserve_max": 202,
+                    "screen_code": "10",
+                    "time_begin": "1520",
+                    "title_code": "99100",
+                    "title_branch_num": "0"
+                },
+                {
+                    "time_begin": "1730",
+                    "title_code": "99100",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 125,
+                    "cnt_reserve_max": 202,
+                    "screen_code": "10"
+                },
+                {
+                    "screen_code": "10",
+                    "cnt_reserve_free": 138,
+                    "cnt_reserve_max": 202,
+                    "title_branch_num": "0",
+                    "time_begin": "2025",
+                    "title_code": "99100"
+                },
+                {
+                    "cnt_reserve_free": 0,
+                    "cnt_reserve_max": 66,
+                    "screen_code": "40",
+                    "time_begin": "1000",
+                    "title_code": "99300",
+                    "title_branch_num": "0"
+                },
+                {
+                    "screen_code": "40",
+                    "cnt_reserve_max": 66,
+                    "cnt_reserve_free": 0,
+                    "title_branch_num": "0",
+                    "title_code": "99300",
+                    "time_begin": "1240"
+                },
+                {
+                    "screen_code": "40",
+                    "cnt_reserve_max": 66,
+                    "cnt_reserve_free": 0,
+                    "title_branch_num": "0",
+                    "time_begin": "1510",
+                    "title_code": "99300"
+                },
+                {
+                    "time_begin": "2035",
+                    "title_code": "99300",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 8,
+                    "cnt_reserve_max": 66,
+                    "screen_code": "40"
+                },
+                {
+                    "cnt_reserve_free": 47,
+                    "cnt_reserve_max": 132,
+                    "screen_code": "20",
+                    "title_code": "99315",
+                    "time_begin": "1010",
+                    "title_branch_num": "0"
+                },
+                {
+                    "time_begin": "1220",
+                    "title_code": "99315",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 66,
+                    "cnt_reserve_max": 132,
+                    "screen_code": "20"
+                },
+                {
+                    "time_begin": "1430",
+                    "title_code": "99315",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 58,
+                    "cnt_reserve_max": 132,
+                    "screen_code": "20"
+                },
+                {
+                    "screen_code": "20",
+                    "cnt_reserve_max": 132,
+                    "cnt_reserve_free": 55,
+                    "title_branch_num": "0",
+                    "time_begin": "1640",
+                    "title_code": "99315"
+                },
+                {
+                    "screen_code": "20",
+                    "cnt_reserve_free": 61,
+                    "cnt_reserve_max": 132,
+                    "title_branch_num": "0",
+                    "title_code": "99315",
+                    "time_begin": "1850"
+                },
+                {
+                    "screen_code": "20",
+                    "cnt_reserve_max": 132,
+                    "cnt_reserve_free": 60,
+                    "title_branch_num": "0",
+                    "time_begin": "2100",
+                    "title_code": "99315"
+                },
+                {
+                    "cnt_reserve_max": 74,
+                    "cnt_reserve_free": 2,
+                    "screen_code": "60",
+                    "time_begin": "0920",
+                    "title_code": "99500",
+                    "title_branch_num": "0"
+                },
+                {
+                    "title_code": "99500",
+                    "time_begin": "1210",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 0,
+                    "cnt_reserve_max": 74,
+                    "screen_code": "60"
+                },
+                {
+                    "title_branch_num": "0",
+                    "title_code": "99500",
+                    "time_begin": "1500",
+                    "screen_code": "60",
+                    "cnt_reserve_max": 74,
+                    "cnt_reserve_free": 4
+                },
+                {
+                    "time_begin": "1750",
+                    "title_code": "99500",
+                    "title_branch_num": "0",
+                    "cnt_reserve_free": 2,
+                    "cnt_reserve_max": 74,
+                    "screen_code": "60"
+                },
+                {
+                    "title_branch_num": "0",
+                    "time_begin": "2040",
+                    "title_code": "99500",
+                    "screen_code": "60",
+                    "cnt_reserve_max": 74,
+                    "cnt_reserve_free": 5
+                }
+            ],
+            "date_jouei": "20171205"
+        }
+    ],
+    "message": ""
+}
