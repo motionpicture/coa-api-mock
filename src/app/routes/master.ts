@@ -5,6 +5,9 @@
 
 import { Router } from 'express';
 import * as fs from 'fs';
+import * as moment from 'moment';
+// tslint:disable-next-line:no-require-imports no-var-requires
+require('moment-timezone');
 
 const masterRouter = Router();
 
@@ -28,8 +31,32 @@ masterRouter.get(
 
 masterRouter.get(
     '/theater/:theaterCode/schedule/',
-    (__, res) => {
-        fs.createReadStream(`${__dirname}/../../../data/schedule.json.json`).pipe(res);
+    (req, res) => {
+        const schedules: any[] = [];
+        fs.readFile(`${__dirname}/../../../data/schedule.json`, (__2, buffer) => {
+            const data = JSON.parse(buffer.toString());
+
+            const startDate = moment(`${req.query.begin} 00:00:00+09:00`, 'YYYYMMDD HH:mm:ssZ');
+            const endDate = moment(`${req.query.end} 00:00:00+09:00`, 'YYYYMMDD HH:mm:ssZ').add(1, 'day');
+            const days = endDate.diff(startDate, 'days');
+
+            // tslint:disable-next-line:no-increment-decrement
+            for (let i = 0; i < days; i++) {
+                const dateJouei = moment(startDate).add(i, 'days');
+                schedules.push(...(<any[]>data.list_schedule).map((schedule) => {
+                    return {
+                        ...schedule,
+                        date_jouei: dateJouei.tz('Asia/Tokyo').format('YYYYMMDD'),
+                        // tslint:disable-next-line:no-magic-numbers
+                        rsv_start_date: moment(dateJouei).add(-2, 'days').tz('Asia/Tokyo').format('YYYYMMDD'),
+                        rsv_end_date: dateJouei.tz('Asia/Tokyo').format('YYYYMMDD')
+                    };
+                }));
+            }
+
+            data.list_schedule = schedules;
+            res.json(data);
+        });
     });
 
 masterRouter.get(
