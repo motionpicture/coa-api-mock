@@ -32,7 +32,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(expressValidator({})); // this line must be immediately after any of the bodyParser middlewares!
 // routers
-app.use('/api/v1', default_1.default);
+app.use('/', default_1.default);
 // 404
 app.use(notFoundHandler_1.default);
 // error handlers

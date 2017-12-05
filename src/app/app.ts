@@ -38,7 +38,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(expressValidator({})); // this line must be immediately after any of the bodyParser middlewares!
 
 // routers
-app.use('/api/v1', router);
+app.use('/', router);
 
 // 404
 app.use(notFoundHandler);

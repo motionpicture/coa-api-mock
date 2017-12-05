@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 - マスター抽出ルーターを追加。
 - 予約ルーターを追加。
+- 認可ルーターを追加。
 
 ### Changed
 
