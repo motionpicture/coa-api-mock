@@ -11,38 +11,38 @@ const masterRouter = Router();
 masterRouter.get(
     '/theater/:theaterCode/theater/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/theater`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/theater.json`).pipe(res);
     });
 
 masterRouter.get(
     '/theater/:theaterCode/title/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/title`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/title.json`).pipe(res);
     });
 
 masterRouter.get(
     '/theater/:theaterCode/screen/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/screen`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/screen.json`).pipe(res);
     });
 
 masterRouter.get(
     '/theater/:theaterCode/schedule/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/schedule`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/schedule.json.json`).pipe(res);
     });
 
 masterRouter.get(
     '/theater/:theaterCode/ticket/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/ticket`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/ticket.json`).pipe(res);
     }
 );
 
 masterRouter.get(
     '/theater/:theaterCode/kubun_name/',
     (__, res) => {
-        fs.createReadStream(`${__dirname}../../../data/kubunName`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/kubunName.json`).pipe(res);
     });
 
 masterRouter.get(
