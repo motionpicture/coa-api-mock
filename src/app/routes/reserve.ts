@@ -109,13 +109,13 @@ reserveRouter.get(
 reserveRouter.get(
     '/theater/:theaterCode/state_reserve/',
     (__, res) => {
-        fs.createReadStream(`${__dirname} /../../../data/stateReserve.json`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/stateReserve.json`).pipe(res);
     });
 
 reserveRouter.get(
     '/theater/:theaterCode/sales_ticket/',
     (__, res) => {
-        fs.createReadStream(`${__dirname} /../../../data/salesTicket.json`).pipe(res);
+        fs.createReadStream(`${__dirname}/../../../data/salesTicket.json`).pipe(res);
     });
 
 export default reserveRouter;
