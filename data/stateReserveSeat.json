@@ -1,0 +1,775 @@
+{
+    "status": 0,
+    "list_seat": [
+        {
+            "seat_section": "   ",
+            "list_free_seat": [
+                {
+                    "seat_num": "Ｂ－２"
+                },
+                {
+                    "seat_num": "Ｂ－３"
+                },
+                {
+                    "seat_num": "Ｂ－４"
+                },
+                {
+                    "seat_num": "Ｂ－７"
+                },
+                {
+                    "seat_num": "Ｂ－８"
+                },
+                {
+                    "seat_num": "Ｂ－９"
+                },
+                {
+                    "seat_num": "Ｂ－１０"
+                },
+                {
+                    "seat_num": "Ｂ－１１"
+                },
+                {
+                    "seat_num": "Ｂ－１２"
+                },
+                {
+                    "seat_num": "Ｂ－１３"
+                },
+                {
+                    "seat_num": "Ｂ－１４"
+                },
+                {
+                    "seat_num": "Ｂ－１５"
+                },
+                {
+                    "seat_num": "Ｂ－１６"
+                },
+                {
+                    "seat_num": "Ｂ－１７"
+                },
+                {
+                    "seat_num": "Ｂ－１８"
+                },
+                {
+                    "seat_num": "Ｂ－１９"
+                },
+                {
+                    "seat_num": "Ｂ－２０"
+                },
+                {
+                    "seat_num": "Ｂ－２１"
+                },
+                {
+                    "seat_num": "Ｂ－２２"
+                },
+                {
+                    "seat_num": "Ｂ－２３"
+                },
+                {
+                    "seat_num": "Ｂ－２４"
+                },
+                {
+                    "seat_num": "Ｃ－１"
+                },
+                {
+                    "seat_num": "Ｃ－２"
+                },
+                {
+                    "seat_num": "Ｃ－４"
+                },
+                {
+                    "seat_num": "Ｃ－７"
+                },
+                {
+                    "seat_num": "Ｃ－９"
+                },
+                {
+                    "seat_num": "Ｃ－１０"
+                },
+                {
+                    "seat_num": "Ｃ－１１"
+                },
+                {
+                    "seat_num": "Ｃ－１２"
+                },
+                {
+                    "seat_num": "Ｃ－１３"
+                },
+                {
+                    "seat_num": "Ｃ－１４"
+                },
+                {
+                    "seat_num": "Ｃ－１６"
+                },
+                {
+                    "seat_num": "Ｃ－１７"
+                },
+                {
+                    "seat_num": "Ｃ－１８"
+                },
+                {
+                    "seat_num": "Ｃ－１９"
+                },
+                {
+                    "seat_num": "Ｃ－２０"
+                },
+                {
+                    "seat_num": "Ｃ－２１"
+                },
+                {
+                    "seat_num": "Ｃ－２２"
+                },
+                {
+                    "seat_num": "Ｃ－２３"
+                },
+                {
+                    "seat_num": "Ｃ－２４"
+                },
+                {
+                    "seat_num": "Ｃ－２５"
+                },
+                {
+                    "seat_num": "Ｄ－１"
+                },
+                {
+                    "seat_num": "Ｄ－２"
+                },
+                {
+                    "seat_num": "Ｄ－４"
+                },
+                {
+                    "seat_num": "Ｄ－７"
+                },
+                {
+                    "seat_num": "Ｄ－９"
+                },
+                {
+                    "seat_num": "Ｄ－１０"
+                },
+                {
+                    "seat_num": "Ｄ－１１"
+                },
+                {
+                    "seat_num": "Ｄ－１３"
+                },
+                {
+                    "seat_num": "Ｄ－１４"
+                },
+                {
+                    "seat_num": "Ｄ－１５"
+                },
+                {
+                    "seat_num": "Ｄ－１７"
+                },
+                {
+                    "seat_num": "Ｄ－１８"
+                },
+                {
+                    "seat_num": "Ｄ－１９"
+                },
+                {
+                    "seat_num": "Ｄ－２０"
+                },
+                {
+                    "seat_num": "Ｄ－２１"
+                },
+                {
+                    "seat_num": "Ｄ－２２"
+                },
+                {
+                    "seat_num": "Ｄ－２３"
+                },
+                {
+                    "seat_num": "Ｄ－２４"
+                },
+                {
+                    "seat_num": "Ｄ－２５"
+                },
+                {
+                    "seat_num": "Ｅ－１"
+                },
+                {
+                    "seat_num": "Ｅ－２"
+                },
+                {
+                    "seat_num": "Ｅ－３"
+                },
+                {
+                    "seat_num": "Ｅ－４"
+                },
+                {
+                    "seat_num": "Ｅ－７"
+                },
+                {
+                    "seat_num": "Ｅ－８"
+                },
+                {
+                    "seat_num": "Ｅ－１０"
+                },
+                {
+                    "seat_num": "Ｅ－１１"
+                },
+                {
+                    "seat_num": "Ｅ－１２"
+                },
+                {
+                    "seat_num": "Ｅ－１３"
+                },
+                {
+                    "seat_num": "Ｅ－１４"
+                },
+                {
+                    "seat_num": "Ｅ－１５"
+                },
+                {
+                    "seat_num": "Ｅ－１６"
+                },
+                {
+                    "seat_num": "Ｅ－１７"
+                },
+                {
+                    "seat_num": "Ｅ－１９"
+                },
+                {
+                    "seat_num": "Ｅ－２０"
+                },
+                {
+                    "seat_num": "Ｅ－２１"
+                },
+                {
+                    "seat_num": "Ｅ－２２"
+                },
+                {
+                    "seat_num": "Ｅ－２３"
+                },
+                {
+                    "seat_num": "Ｅ－２４"
+                },
+                {
+                    "seat_num": "Ｅ－２５"
+                },
+                {
+                    "seat_num": "Ｆ－１"
+                },
+                {
+                    "seat_num": "Ｆ－２"
+                },
+                {
+                    "seat_num": "Ｆ－４"
+                },
+                {
+                    "seat_num": "Ｆ－７"
+                },
+                {
+                    "seat_num": "Ｆ－８"
+                },
+                {
+                    "seat_num": "Ｆ－１０"
+                },
+                {
+                    "seat_num": "Ｆ－１１"
+                },
+                {
+                    "seat_num": "Ｆ－１２"
+                },
+                {
+                    "seat_num": "Ｆ－１３"
+                },
+                {
+                    "seat_num": "Ｆ－１４"
+                },
+                {
+                    "seat_num": "Ｆ－１５"
+                },
+                {
+                    "seat_num": "Ｆ－１６"
+                },
+                {
+                    "seat_num": "Ｆ－１７"
+                },
+                {
+                    "seat_num": "Ｆ－１８"
+                },
+                {
+                    "seat_num": "Ｆ－１９"
+                },
+                {
+                    "seat_num": "Ｆ－２０"
+                },
+                {
+                    "seat_num": "Ｆ－２１"
+                },
+                {
+                    "seat_num": "Ｆ－２３"
+                },
+                {
+                    "seat_num": "Ｆ－２４"
+                },
+                {
+                    "seat_num": "Ｆ－２５"
+                },
+                {
+                    "seat_num": "Ｇ－１"
+                },
+                {
+                    "seat_num": "Ｇ－２"
+                },
+                {
+                    "seat_num": "Ｇ－３"
+                },
+                {
+                    "seat_num": "Ｇ－４"
+                },
+                {
+                    "seat_num": "Ｇ－７"
+                },
+                {
+                    "seat_num": "Ｇ－８"
+                },
+                {
+                    "seat_num": "Ｇ－９"
+                },
+                {
+                    "seat_num": "Ｇ－１０"
+                },
+                {
+                    "seat_num": "Ｇ－１１"
+                },
+                {
+                    "seat_num": "Ｇ－１２"
+                },
+                {
+                    "seat_num": "Ｇ－１４"
+                },
+                {
+                    "seat_num": "Ｇ－１５"
+                },
+                {
+                    "seat_num": "Ｇ－１６"
+                },
+                {
+                    "seat_num": "Ｇ－１７"
+                },
+                {
+                    "seat_num": "Ｇ－１８"
+                },
+                {
+                    "seat_num": "Ｇ－１９"
+                },
+                {
+                    "seat_num": "Ｇ－２０"
+                },
+                {
+                    "seat_num": "Ｇ－２１"
+                },
+                {
+                    "seat_num": "Ｇ－２２"
+                },
+                {
+                    "seat_num": "Ｇ－２３"
+                },
+                {
+                    "seat_num": "Ｇ－２４"
+                },
+                {
+                    "seat_num": "Ｇ－２５"
+                },
+                {
+                    "seat_num": "　－１"
+                },
+                {
+                    "seat_num": "　－２"
+                },
+                {
+                    "seat_num": "　－３"
+                },
+                {
+                    "seat_num": "　－４"
+                },
+                {
+                    "seat_num": "Ｈ－１"
+                },
+                {
+                    "seat_num": "Ｈ－２"
+                },
+                {
+                    "seat_num": "Ｈ－３"
+                },
+                {
+                    "seat_num": "Ｈ－４"
+                },
+                {
+                    "seat_num": "Ｈ－７"
+                },
+                {
+                    "seat_num": "Ｈ－８"
+                },
+                {
+                    "seat_num": "Ｈ－１１"
+                },
+                {
+                    "seat_num": "Ｈ－１３"
+                },
+                {
+                    "seat_num": "Ｈ－１４"
+                },
+                {
+                    "seat_num": "Ｈ－１５"
+                },
+                {
+                    "seat_num": "Ｈ－１６"
+                },
+                {
+                    "seat_num": "Ｈ－１７"
+                },
+                {
+                    "seat_num": "Ｈ－１８"
+                },
+                {
+                    "seat_num": "Ｈ－１９"
+                },
+                {
+                    "seat_num": "Ｈ－２０"
+                },
+                {
+                    "seat_num": "Ｈ－２１"
+                },
+                {
+                    "seat_num": "Ｈ－２２"
+                },
+                {
+                    "seat_num": "Ｈ－２３"
+                },
+                {
+                    "seat_num": "Ｈ－２４"
+                },
+                {
+                    "seat_num": "Ｈ－２５"
+                },
+                {
+                    "seat_num": "Ｈ－２６"
+                },
+                {
+                    "seat_num": "Ｈ－２７"
+                },
+                {
+                    "seat_num": "Ｈ－２８"
+                },
+                {
+                    "seat_num": "Ｉ－１"
+                },
+                {
+                    "seat_num": "Ｉ－２"
+                },
+                {
+                    "seat_num": "Ｉ－３"
+                },
+                {
+                    "seat_num": "Ｉ－７"
+                },
+                {
+                    "seat_num": "Ｉ－８"
+                },
+                {
+                    "seat_num": "Ｉ－１１"
+                },
+                {
+                    "seat_num": "Ｉ－１２"
+                },
+                {
+                    "seat_num": "Ｉ－１３"
+                },
+                {
+                    "seat_num": "Ｉ－１４"
+                },
+                {
+                    "seat_num": "Ｉ－１５"
+                },
+                {
+                    "seat_num": "Ｉ－１６"
+                },
+                {
+                    "seat_num": "Ｉ－１８"
+                },
+                {
+                    "seat_num": "Ｉ－２０"
+                },
+                {
+                    "seat_num": "Ｉ－２１"
+                },
+                {
+                    "seat_num": "Ｉ－２２"
+                },
+                {
+                    "seat_num": "Ｉ－２３"
+                },
+                {
+                    "seat_num": "Ｉ－２４"
+                },
+                {
+                    "seat_num": "Ｉ－２５"
+                },
+                {
+                    "seat_num": "Ｉ－２６"
+                },
+                {
+                    "seat_num": "Ｉ－２７"
+                },
+                {
+                    "seat_num": "Ｉ－２８"
+                },
+                {
+                    "seat_num": "Ｊ－１"
+                },
+                {
+                    "seat_num": "Ｊ－２"
+                },
+                {
+                    "seat_num": "Ｊ－３"
+                },
+                {
+                    "seat_num": "Ｊ－８"
+                },
+                {
+                    "seat_num": "Ｊ－１０"
+                },
+                {
+                    "seat_num": "Ｊ－１１"
+                },
+                {
+                    "seat_num": "Ｊ－１２"
+                },
+                {
+                    "seat_num": "Ｊ－１３"
+                },
+                {
+                    "seat_num": "Ｊ－１４"
+                },
+                {
+                    "seat_num": "Ｊ－１５"
+                },
+                {
+                    "seat_num": "Ｊ－１６"
+                },
+                {
+                    "seat_num": "Ｊ－１７"
+                },
+                {
+                    "seat_num": "Ｊ－１８"
+                },
+                {
+                    "seat_num": "Ｊ－１９"
+                },
+                {
+                    "seat_num": "Ｊ－２０"
+                },
+                {
+                    "seat_num": "Ｊ－２１"
+                },
+                {
+                    "seat_num": "Ｊ－２２"
+                },
+                {
+                    "seat_num": "Ｊ－２３"
+                },
+                {
+                    "seat_num": "Ｊ－２４"
+                },
+                {
+                    "seat_num": "Ｊ－２５"
+                },
+                {
+                    "seat_num": "Ｊ－２６"
+                },
+                {
+                    "seat_num": "Ｊ－２８"
+                },
+                {
+                    "seat_num": "Ｋ－１"
+                },
+                {
+                    "seat_num": "Ｋ－２"
+                },
+                {
+                    "seat_num": "Ｋ－３"
+                },
+                {
+                    "seat_num": "Ｋ－４"
+                },
+                {
+                    "seat_num": "Ｋ－８"
+                },
+                {
+                    "seat_num": "Ｋ－９"
+                },
+                {
+                    "seat_num": "Ｋ－１０"
+                },
+                {
+                    "seat_num": "Ｋ－１２"
+                },
+                {
+                    "seat_num": "Ｋ－１３"
+                },
+                {
+                    "seat_num": "Ｋ－１４"
+                },
+                {
+                    "seat_num": "Ｋ－１５"
+                },
+                {
+                    "seat_num": "Ｋ－１６"
+                },
+                {
+                    "seat_num": "Ｋ－１７"
+                },
+                {
+                    "seat_num": "Ｋ－１８"
+                },
+                {
+                    "seat_num": "Ｋ－１９"
+                },
+                {
+                    "seat_num": "Ｋ－２０"
+                },
+                {
+                    "seat_num": "Ｋ－２１"
+                },
+                {
+                    "seat_num": "Ｋ－２２"
+                },
+                {
+                    "seat_num": "Ｋ－２３"
+                },
+                {
+                    "seat_num": "Ｋ－２４"
+                },
+                {
+                    "seat_num": "Ｋ－２５"
+                },
+                {
+                    "seat_num": "Ｋ－２６"
+                },
+                {
+                    "seat_num": "Ｋ－２７"
+                },
+                {
+                    "seat_num": "Ｋ－２８"
+                },
+                {
+                    "seat_num": "Ｌ－１"
+                },
+                {
+                    "seat_num": "Ｌ－２"
+                },
+                {
+                    "seat_num": "Ｌ－３"
+                },
+                {
+                    "seat_num": "Ｌ－４"
+                },
+                {
+                    "seat_num": "Ｌ－７"
+                },
+                {
+                    "seat_num": "Ｌ－８"
+                },
+                {
+                    "seat_num": "Ｌ－９"
+                },
+                {
+                    "seat_num": "Ｌ－２０"
+                },
+                {
+                    "seat_num": "Ｌ－２１"
+                },
+                {
+                    "seat_num": "Ｌ－２２"
+                },
+                {
+                    "seat_num": "Ｌ－２３"
+                },
+                {
+                    "seat_num": "Ｌ－２４"
+                },
+                {
+                    "seat_num": "Ｌ－２５"
+                },
+                {
+                    "seat_num": "Ｌ－２６"
+                },
+                {
+                    "seat_num": "Ｌ－２７"
+                },
+                {
+                    "seat_num": "Ｌ－２８"
+                },
+                {
+                    "seat_num": "Ｍ－１"
+                },
+                {
+                    "seat_num": "Ｍ－２"
+                },
+                {
+                    "seat_num": "Ｍ－３"
+                },
+                {
+                    "seat_num": "Ｍ－４"
+                },
+                {
+                    "seat_num": "Ｍ－８"
+                },
+                {
+                    "seat_num": "Ｍ－２１"
+                },
+                {
+                    "seat_num": "Ｍ－２２"
+                },
+                {
+                    "seat_num": "Ｍ－２４"
+                },
+                {
+                    "seat_num": "Ｍ－２５"
+                },
+                {
+                    "seat_num": "Ｍ－２６"
+                },
+                {
+                    "seat_num": "Ｍ－２７"
+                },
+                {
+                    "seat_num": "Ｍ－２８"
+                },
+                {
+                    "seat_num": "Ｎ－１"
+                },
+                {
+                    "seat_num": "Ｎ－２"
+                },
+                {
+                    "seat_num": "Ｎ－３"
+                },
+                {
+                    "seat_num": "Ｎ－４"
+                },
+                {
+                    "seat_num": "Ｎ－５"
+                },
+                {
+                    "seat_num": "Ｎ－６"
+                },
+                {
+                    "seat_num": "Ｎ－７"
+                },
+                {
+                    "seat_num": "Ｎ－２７"
+                },
+                {
+                    "seat_num": "Ｎ－２８"
+                }
+            ]
+        }
+    ],
+    "cnt_seat_line": 15,
+    "message": "",
+    "cnt_reserve_free": 210
+}

@@ -1,0 +1,288 @@
+{
+    "list_ticket": [
+        {
+            "ticket_name_eng": "General Price",
+            "ticket_name": "当日一般",
+            "ticket_code": "10",
+            "ticket_name_kana": "トウジツイッパン"
+        },
+        {
+            "ticket_name_kana": "",
+            "ticket_code": "15",
+            "ticket_name_eng": "General 3D",
+            "ticket_name": "当日一般３Ｄ"
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "大学生",
+            "ticket_code": "40",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_code": "45",
+            "ticket_name_kana": "",
+            "ticket_name": "大学生３Ｄ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_code": "80",
+            "ticket_name_kana": "",
+            "ticket_name": "シニア",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "夫婦５０割",
+            "ticket_code": "81",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_name": "シニア３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "85"
+        },
+        {
+            "ticket_code": "86",
+            "ticket_name_kana": "",
+            "ticket_name": "夫婦５０割３Ｄ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_code": "90",
+            "ticket_name_kana": "",
+            "ticket_name": "中小・幼児",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "中小・幼児３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "95"
+        },
+        {
+            "ticket_name": "高校生",
+            "ticket_name_eng": "",
+            "ticket_code": "96",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_code": "98",
+            "ticket_name_kana": "",
+            "ticket_name": "高校生３Ｄ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "メンバースデイ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "132"
+        },
+        {
+            "ticket_name": "メンバースデイ３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "139"
+        },
+        {
+            "ticket_name_kana": "",
+            "ticket_code": "160",
+            "ticket_name_eng": "",
+            "ticket_name": "サービスデイ"
+        },
+        {
+            "ticket_name_kana": "",
+            "ticket_code": "161",
+            "ticket_name_eng": "",
+            "ticket_name": "レディースデイ"
+        },
+        {
+            "ticket_code": "164",
+            "ticket_name_kana": "",
+            "ticket_name_eng": "",
+            "ticket_name": "サービスデイ３Ｄ"
+        },
+        {
+            "ticket_code": "166",
+            "ticket_name_kana": "",
+            "ticket_name": "レディースデイ３Ｄ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "レイト",
+            "ticket_name_eng": "Late Show Price",
+            "ticket_code": "171",
+            "ticket_name_kana": "レイトショー"
+        },
+        {
+            "ticket_name": "レイト３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "175"
+        },
+        {
+            "ticket_code": "3101",
+            "ticket_name_kana": "",
+            "ticket_name_eng": "",
+            "ticket_name": "ﾑﾋﾞﾁｹ一般"
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "【ﾑﾋﾞﾁｹ】小人",
+            "ticket_code": "3102",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "【ﾑﾋﾞﾁｹ】親子ペア一般",
+            "ticket_code": "3109",
+            "ticket_name_kana": "ムビチケ　オヤコペアイッパン"
+        },
+        {
+            "ticket_name": "【ﾑﾋﾞﾁｹ】親子ペア小人",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "ムビチケ　オヤコペアショウニン",
+            "ticket_code": "3110"
+        },
+        {
+            "ticket_code": "3131",
+            "ticket_name_kana": "",
+            "ticket_name_eng": "",
+            "ticket_name": "ﾑﾋﾞﾁｹ一般3D"
+        },
+        {
+            "ticket_code": "3139",
+            "ticket_name_kana": "ムビチケ　オヤコペアイッパン３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name": "【ﾑﾋﾞﾁｹ】親子ペア一般３Ｄ"
+        },
+        {
+            "ticket_name_kana": "ムビチケ　オヤコペアショウニン３Ｄ",
+            "ticket_code": "3140",
+            "ticket_name": "【ﾑﾋﾞﾁｹ】親子ペア小人３Ｄ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_code": "3141",
+            "ticket_name_kana": "",
+            "ticket_name": "【ﾑﾋﾞﾁｹ】小人３D",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "ﾑﾋﾞﾁｹ 前売券",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "3201"
+        },
+        {
+            "ticket_name": "ﾑﾋﾞﾁｹ 劇場券",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "3202"
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "ムビチケ3D",
+            "ticket_name_kana": "",
+            "ticket_code": "3205"
+        },
+        {
+            "ticket_name": "ムビチケ3Dメガネ込",
+            "ticket_name_eng": "",
+            "ticket_code": "3206",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_code": "3210",
+            "ticket_name_kana": "",
+            "ticket_name": "ムビチケお直り",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "ムビチケ3D差額",
+            "ticket_name_eng": "",
+            "ticket_code": "3211",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "ﾑﾋﾞﾁｹ ﾒｶﾞﾈ代",
+            "ticket_name_kana": "",
+            "ticket_code": "3221"
+        },
+        {
+            "ticket_name_kana": "",
+            "ticket_code": "3222",
+            "ticket_name_eng": "",
+            "ticket_name": "ﾑﾋﾞﾁｹ3D差額ﾒｶﾞﾈ代"
+        },
+        {
+            "ticket_name": "メンバーズ一般",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "メンバーズイッパン",
+            "ticket_code": "3100011"
+        },
+        {
+            "ticket_name_kana": "メンバーズダイガクセイ",
+            "ticket_code": "3100021",
+            "ticket_name_eng": "",
+            "ticket_name": "メンバーズ大学生"
+        },
+        {
+            "ticket_name_eng": "",
+            "ticket_name": "メンバー無料鑑賞券",
+            "ticket_name_kana": "メンバームリョウ",
+            "ticket_code": "3900001"
+        },
+        {
+            "ticket_name": "ﾑﾋﾞﾁｹ全国券",
+            "ticket_name_eng": "",
+            "ticket_code": "7000701",
+            "ticket_name_kana": "ムビチケゼンコク"
+        },
+        {
+            "ticket_code": "7000702",
+            "ticket_name_kana": "ムビチケゲキジョウ",
+            "ticket_name": "ﾑﾋﾞﾁｹ劇場券",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name_kana": "ムビチケメガネ",
+            "ticket_code": "7000703",
+            "ticket_name_eng": "",
+            "ticket_name": "ﾑﾋﾞﾁｹﾒｶﾞﾈ代"
+        },
+        {
+            "ticket_name": "ムビチケ３Ｄ",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "7000711"
+        },
+        {
+            "ticket_name_kana": "",
+            "ticket_code": "9000001",
+            "ticket_name": "３Ｄメガネ",
+            "ticket_name_eng": ""
+        },
+        {
+            "ticket_name": "IMAX３Ｄメガネ",
+            "ticket_name_eng": "",
+            "ticket_code": "9000002",
+            "ticket_name_kana": ""
+        },
+        {
+            "ticket_name": "テスト均一１６００円",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "テストキンイツ１６００エン",
+            "ticket_code": "9999998"
+        },
+        {
+            "ticket_name": "テスト",
+            "ticket_name_eng": "",
+            "ticket_name_kana": "",
+            "ticket_code": "9999999"
+        }
+    ],
+    "message": "",
+    "status": 0
+}
